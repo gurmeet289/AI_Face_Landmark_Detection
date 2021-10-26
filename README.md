@@ -1,13 +1,13 @@
 # AI_Face_Landmark_Detection
 Real Time AI Face Landmark Detection
 
-Real Time AI Face Landmark Detection
-
 # What is Facial Land Mark Detection?
 It can be referred to as the machine learning technique that detect and locate different points on your face.
 When you combine the face and the technique to detect and locate different points than you can able to generate a mesh (which is like the fishing net covering the face and describes the geometric features of the individual accurately). 
 Something like the below images-
-                                           
+ 
+ ![Mesh_](https://user-images.githubusercontent.com/82320055/138898762-bf1a2e8d-58d8-42af-949e-e8b959993cca.JPG)
+
                                            
 So the model that here will detect 486 3D facial landmarks of a human face.
 Face landmark detection is a computer vision task where we want to detect and track keypoints from a human face. This task applies to many problems. For example, we can use the keypoints for detecting a human's head pose position and rotation. With that, we can track whether a driver is paying attention or not.
@@ -34,7 +34,7 @@ Create React App: https://reactjs.org/docs/create-a-new-react-app.html
 3)	Open the terminal or command prompt and bvigate to the folder and run the command npm install @tensorflow/tfjs @tensorflow-models/face-landmarks-detection react-webcam
 4)	Now in command prompt run the command npm run start
 
-------------------------If you want to go step by step----------------------
+------------------------------------------------------------**If you want to go step by step**---------------------------------------------------------
 # Steps to follow-
 1)	Create the folder with the name you want to keep let say 	the folder name is Facemesh
 2)	Open your command prompt
